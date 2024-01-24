@@ -1,0 +1,96 @@
+{
+	"Teachers": [
+		{
+			"id": 1,
+			"firstname": "Bruce",
+			"lastname": "Johnson",
+			"group": "Group-1"
+		},
+		{
+			"id": 2,
+			"firstname": "Kyle",
+			"lastname": "Anderson",
+			"group": "Group-2"
+		},
+		{
+			"id": 3,
+			"firstname": "Liza",
+			"lastname": "Wattson",
+			"group": "Group-3"
+		},
+		{
+			"id": 4,
+			"firstname": "Emily",
+			"lastname": "Brown",
+			"group": "Group-4"
+		},
+		{
+			"id": 5,
+			"firstname": "Antony",
+			"lastname": "McClair",
+			"group": "Group-5"
+		}
+	],
+	"Students": [
+		{
+			"id": 1,
+			"firstname": "Bruce",
+			"lastname": "Wayne",
+			"group": "Group-1"
+		},
+		{
+			"id": 2,
+			"firstname": "Steve",
+			"lastname": "Rojers",
+			"group": "Group-2"
+		},
+		{
+			"id": 3,
+			"firstname": "Emma",
+			"lastname": "Wattson",
+			"group": "Group-1"
+		},
+		{
+			"id": 4,
+			"firstname": "Tony",
+			"lastname": "Stark",
+			"group": "Group-2"
+		},
+		{
+			"id": 5,
+			"firstname": "Edward",
+			"lastname": "McKinly",
+			"group": "Group-3"
+		},
+		{
+			"id": 6,
+			"firstname": "Scarlet ",
+			"lastname": "Johnson",
+			"group": "Group-3"
+		},
+		{
+			"id": 7,
+			"firstname": "Susan",
+			"lastname": "Benner",
+			"group": "Group-4"
+		},
+		{
+			"id": 8,
+			"firstname": "Tobi",
+			"lastname": "McGuier",
+			"group": "Group-4"
+		},
+		{
+			"id": 9,
+			"firstname": "Jonny",
+			"lastname": "Depp",
+			"group": "Group-5"
+		},
+		{
+			"id": 10,
+			"firstname": "Klint",
+			"lastname": "Barner",
+			"group": "Group-5"
+		}
+	]
+}

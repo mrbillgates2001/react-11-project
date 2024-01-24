@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Rubic;
+    src: url(../assets/fonts/Rubik-Bold.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Rubic;
+    a {
+        text-decoration: none;
+    }
+    li {
+        list-style: none;
+    }
+    button {
+        cursor: pointer;
+    }
+
+}
+
+
+
